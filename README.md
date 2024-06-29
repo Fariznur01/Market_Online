@@ -3,9 +3,6 @@
 
 <br>
 
-<div align="center">
-    <a href=""><img src="/Skill Academy/Images/Sql.png" width="200" hegiht="200" alt="Sql" title="Optional title"></a>
-</div>
 <a name="readme-top"></a>
 <br>
 
